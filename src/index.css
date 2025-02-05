@@ -1,0 +1,13 @@
+:root {
+  font-family: "Roboto Slab";
+  line-height: 1.5;
+  font-weight:100;
+  color: rgba(0, 0, 0, 0.87);
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Centers content vertically */
+  height: 100vh;
+  background-color: rgb(65, 65, 65);
+
+}
+

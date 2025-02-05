@@ -1,0 +1,25 @@
+.infobox{
+    text-align: center;
+    margin-top: 20px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.city{
+    font-size:30px;
+}
+.feels{
+    margin-top: -9px;
+}
+.p1{
+    margin-top: 7px;
+}
+.p2{
+    margin-top: -7px;
+    
+}
+.p3{
+    margin-top: -7px;
+    
+}

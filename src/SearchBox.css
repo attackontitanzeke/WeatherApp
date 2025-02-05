@@ -1,0 +1,22 @@
+.searchbox {
+    text-align: center;
+    min-height: 50px; 
+
+}
+.atBox{
+    display: flex;
+    justify-content: center;
+    
+}
+.alert {
+    margin-top: 20px;
+    width: 200px;
+
+}
+#btt{
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: medium;
+   
+}
+
