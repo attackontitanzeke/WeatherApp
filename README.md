@@ -6,7 +6,7 @@ A React-based Weather App that provides real-time weather updates for any city. 
 
 🛠️ Tech Stack
 Frontend: React.js, HTML, CSS
-API: OpenWeatherMap API (or any API you used)
+API: OpenWeatherMap API
 Deployment: Netlify
 
 ✨ Features
